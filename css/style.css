@@ -1,0 +1,126 @@
+body{
+    background-color: aliceblue;
+}
+
+.navbar{
+    padding: 0px;
+}
+.row{
+    padding-top: 5em;
+}
+.links{
+    background-color: rgb(74,99,231);
+    width:10em;
+    margin-left: 6em;
+    padding: 2em;
+    border-radius: 1em;
+    /* position: fixed; */
+}
+div a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Oswald', sans-serif;
+}
+
+.home{
+    color: aliceblue;
+    width: 50em;
+    height: 20em;
+    background-color: rgb(74,99,231);
+    border: solid 2px rgb(74,99,231);
+    border-radius: 1em;
+    padding: 5em 10em;
+    /* font-family: 'Oswald', sans-serif; */
+}
+.abt{
+    width: 50em;
+    height: 25em;
+    margin-top: 7em;
+    background-color: rgb(161, 174, 236);
+    border: solid 2px rgb(161, 174, 236);
+    border-radius: 1em;
+    padding: 5em 10em;
+}
+.download{
+    padding: 0.5em 1em;
+    background-color: rgb(74,99,231);
+    border: solid 1px rgb(74,99,231);
+    border-radius: 5em;
+}
+.resume{
+    width: 50em;
+    height: 25em;
+    margin-top: 7em;
+    background-color: rgb(161, 174, 236);
+    border: solid 2px rgb(161, 174, 236);
+    border-radius: 1em;
+    padding: 5em 10em;
+}
+.skill_1{
+    display: inline-block;
+    padding: 2em;
+}
+.skill_1_1{
+    width: 10em;
+    padding: 1em;
+}
+.skill_1_2{
+    width: 10em;
+    padding: 1em;
+}
+.skill_2{
+    display: inline-block;
+    padding: 2em;
+}
+.skill_2_1{
+    width: 10em;
+    padding: 1em;
+}
+.skill_2_2{
+    width: 10em;
+    padding: 1em;
+}
+
+.blog{
+    width: 50em;
+    height: 25em;
+    margin-top: 7em;
+    background-color: rgb(161, 174, 236);
+    border: solid 2px rgb(161, 174, 236);
+    border-radius: 1em;
+    padding: 5em 10em;
+}
+.spin{
+    margin-top: 2em;
+    margin-left: 12em;
+    padding: 4em;
+}
+.contact{
+    width: 50em;
+    height: 40em;
+    margin-top: 7em;
+    margin-bottom: 2em;
+    background-color: rgb(161, 174, 236);
+    border: solid 2px rgb(161, 174, 236);
+    border-radius: 1em;
+    padding: 5em 10em;
+}
+.e1{
+    display: inline-block;
+}
+.e2{
+    display: inline-block;
+}
+
+
+h4{
+    font-family: 'Oswald', sans-serif;
+    font-size:40px;
+    
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif; */
